@@ -36,7 +36,3 @@ A full e-commerce platform with a storefront, seller dashboard, and REST API.
 - **Backend:** Node.js, Express, JavaScript
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, REST APIs
-
-## 🔍 Browsing Tips
-
-Since each project spans three repos, use **topics** to find them together. For example, search `topic:portfolio-project` or `topic:ecommerce-project` to see all related repositories at once.
